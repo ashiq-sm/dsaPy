@@ -1,4 +1,4 @@
-from stack import Stack
+from stack.stack import Stack
 s=Stack()
 def is_balanced(brackets):
     stack = Stack()
