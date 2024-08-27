@@ -21,5 +21,5 @@ class Stack():
         if not self.is_empty():
             return self.items[-1]
     
-    def display(self):
+    def display(self): 
         print(self.items)
